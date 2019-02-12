@@ -1,6 +1,5 @@
 # Project #5. Star Notary Dapp
 
-This is Project 5,Star Notary Dapp, in this project I created a Dapp using truffle and Solidity.
 
 The Token Name is Star1
 
