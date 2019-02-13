@@ -9,3 +9,4 @@ Token address on the Rinkeby is 0xd8dff2506fb9ffe584e3017c01ebd51a5783b87e432534
 
 Truffle version - 5.0.3
 
+openzeppelin-solidity": "^2.1.2"
